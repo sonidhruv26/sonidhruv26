@@ -63,6 +63,12 @@
     </a> 
 </p>
 
+[![sonidhruv26's GitHub | Stats](https://stats.quine.sh/sonidhruv26/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sonidhruv26)
+
+[![sonidhruv26's GitHub | Dependencies](https://stats.quine.sh/sonidhruv26/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sonidhruv26)
+
+[![sonidhruv26's GitHub | Topics Over Time](https://stats.quine.sh/sonidhruv26/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sonidhruv26)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonidhruv26&show_icons=true&locale=en&layout=compact" alt="sonidhruv26" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonidhruv26&show_icons=true&locale=en" alt="sonidhruv26" /></p>
