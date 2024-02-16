@@ -62,12 +62,13 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a> 
 </p>
+<p>
+    [![sonidhruv26's GitHub | Stats](https://stats.quine.sh/sonidhruv26/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sonidhruv26)
+</p>
 
-[![sonidhruv26's GitHub | Stats](https://stats.quine.sh/sonidhruv26/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sonidhruv26)
-
-[![sonidhruv26's GitHub | Dependencies](https://stats.quine.sh/sonidhruv26/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sonidhruv26)
-
-[![sonidhruv26's GitHub | Topics Over Time](https://stats.quine.sh/sonidhruv26/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sonidhruv26)
+<p>
+    [![sonidhruv26's GitHub | Dependencies](https://stats.quine.sh/sonidhruv26/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sonidhruv26)
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonidhruv26&show_icons=true&locale=en&layout=compact" alt="sonidhruv26" /></p>
 
